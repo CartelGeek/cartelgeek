@@ -24,7 +24,7 @@ Compartilho meu conhecimento no YouTube [@kallebtech](https://www.youtube.com/@k
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC5bIPMc297xWkxlPqkWMStA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.comcartelgeek?tab=repositories&sort=stargazers">
+    <a href="https://github.com/cartelgeek?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
