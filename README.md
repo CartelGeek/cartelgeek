@@ -179,12 +179,14 @@ Compartilho meu conhecimento no YouTube [@kallebtech](https://www.youtube.com/@k
   />
 
 </p>
-<div align="center">
+<br clear="both"/>
 
-### 🐍 Snake Contributions  
+<br>
 
-![Snake animation](https://raw.githubusercontent.com/cartelgeek/cartelgeek/output/github-contribution-grid-snake-dark.svg)
+---
 
-</div>
+### 🐍 Snake Contributions
+
+![Snake animation](https://raw.githubusercontent.com/cartelgeek/cartelgeek/output/github-snake.svg)
 
 
