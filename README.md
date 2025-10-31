@@ -180,6 +180,8 @@ Compartilho meu conhecimento no YouTube [@kallebtech](https://www.youtube.com/@k
 
 </p>
 
+### 🐍 Contribuições animadas
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
