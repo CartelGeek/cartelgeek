@@ -179,7 +179,8 @@ Compartilho meu conhecimento no YouTube [@kallebtech](https://www.youtube.com/@k
   />
 
 </p>
-
+<br>
+<br>
 ### 🐍 Contribuições animadas
 
 ![Snake animation](https://raw.githubusercontent.com/cartelgeek/cartelgeek/output/github-snake.svg)
